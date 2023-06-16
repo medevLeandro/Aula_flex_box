@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    border: solid purple 10px;
+}
+
+figure{ background-color: tomato;
+    display: flex;
+    justify-content: space-evenly;
+
+    align-items: center;
+height: 90vh;}
+
+img{
+    width: 20vw;
+    height: 30vh;
+}
